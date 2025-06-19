@@ -17,7 +17,6 @@ Repositori ini berisi script **load testing** menggunakan [K6](https://k6.io/), 
 ```
 .
 ├── scripts/               # Script uji utama (group, check, metrics, dsb)
-├── utils/                 # Fungsi utilitas tambahan (UUID, setup)
 ├── reports/               # Hasil output HTML atau file uji (jika ada)
 ├── README.md              # Dokumentasi project
 ```
