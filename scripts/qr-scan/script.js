@@ -81,6 +81,6 @@ export default function (setup) {
 
 export function handleSummary(data) {
   return {
-    "qr-scan.html": htmlReport(data),
+    "reports/qr-scan.html": htmlReport(data),
   };
 }

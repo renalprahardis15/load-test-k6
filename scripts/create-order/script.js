@@ -80,6 +80,6 @@ export default function (users) {
 
 export function handleSummary(data) {
   return {
-    "create-order.html": htmlReport(data),
+    "reports/create-order.html": htmlReport(data),
   };
 }

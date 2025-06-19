@@ -62,6 +62,6 @@ export default function (users) {
 
 export function handleSummary(data) {
   return {
-    "add-member.html": htmlReport(data),
+    "reports/add-member.html": htmlReport(data),
   };
 }
